@@ -1,0 +1,1 @@
+web: gunicorn faris.wsgi --log-file -
